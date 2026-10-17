@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.RGalaxy" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B5E20</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#1B5E20</item>
+        <item name="android:windowBackground">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,3 @@
+-keep class com.rgalaxy.optimizer.MacroAccessibilityService { *; }
+-keep class kotlin.Metadata { *; }
+-dontwarn kotlinx.coroutines.**

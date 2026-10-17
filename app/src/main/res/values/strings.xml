@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tek Tıkla Optimizasyon</string>
+    <string name="btn_fix">Sorunları Çöz ve Optimize Et</string>
+    <string name="status_idle">Düğmeye basın, gerisini biz hallederiz.</string>
+    <string name="status_running">Çalışıyor, lütfen bekleyin…</string>
+    <string name="status_ok">İnternet Bağlantınız Onarıldı!</string>
+    <string name="a11y_label">Tek Tıkla Optimizasyon Yardımcısı</string>
+    <string name="a11y_description">Samsung Ayarlar ekranında \"Ağ ayarlarını sıfırla\" ve \"Veri tasarrufu\" düğmelerini sizin yerinize bulup dokunur. Başka hiçbir uygulamayı izlemez.</string>
+    <string name="a11y_prompt">Gelişmiş onarım için Erişilebilirlik izni gerekli. Açılan ekranda \"Tek Tıkla Optimizasyon Yardımcısı\" öğesini açın.</string>
+</resources>
